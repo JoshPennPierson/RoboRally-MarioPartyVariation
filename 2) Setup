@@ -1,0 +1,16 @@
+--SETUP--
+Four 16x16 boards are picked and placed in a square either at random or as chosen by players.
+
+Whenever something needs to be placed on the boards at random, use the following method:
+-Roll 1 die to determine which board (4 sided dice or re-roll if not applicable number)
+-Roll 2 dice added together to determine x coordinate
+-Roll 2 dice added together to determine y coordinate
+Always count from the middle of all 4 boards out towards the edges of whichever board was randomly selected.
+
+All 6 green and all 6 red flags are placed on the board either at random or as chosen by players. Green flags are now equivalent to single wrenches and red flags are now equivalent to double wrenches.
+
+All 3 Game Guy markers are placed on the board either at random or as chosen by players. Any time someone plays a Game Guy game, move all of the Game Guy Markers to new random locations.
+
+A star (green chit) is randomly placed on the board. Any time someone get a star, randomly place a new star.
+
+There is only one respawn location. It is located on one of the four center squares or any other single square all players agree on. You do not update your respawn location ever. All players have unlimited lives. When you respawn, you may always choose the direction you are facing (before receiving your program cards for the turn).
