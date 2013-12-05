@@ -1,0 +1,13 @@
+--GAMEPLAY--
+Players agree on a number of stars to play to and/or you can specify a number of turns. The game is over when someone collects X stars and/or Y turns have gone by.
+
+You only pick up a star if you end your phase on the square the star is in.
+
+At the end of a phase if one or more persons have landed on a flag, double wrench, or single wrench, everyone places down a virtual robot in place of their bot and you place the mini game board on top of the game boards (so that everyone can reach). Alternatively, if there is enough space and people are willing to move for each mini game, you can put the mini game board to the side of the game boards. Each person is allowed one single wrench, one double wrench, and one flag per turn.
+-Single wrenches are single player mini-games.
+-Double wrenches and stars are multiplayer mini-games.
+-Ending your turn on a single wrench heals for 1 health.
+-Ending your turn on a double wrench heals for 2 health.
+
+Giveaway Time!
+When there are only 10 turns left to go, or only one star left to go for whomever is in the lead, the person in last us awarded 2 option cards (draws 3, keeps 2, puts 1 back).
