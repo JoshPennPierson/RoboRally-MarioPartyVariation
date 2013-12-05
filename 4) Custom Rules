@@ -5,3 +5,11 @@
 4) Built In Abort Switch: all robots have the option to 
 5) Never Say Die: All bots have unlimited lives.
 6) Speed Things Up (for advanced players only): If all players have damage, the first player to say "Done!" once finished programming all their cards gets to take one point of damage off.
+
+
+
+--Mini Games Rules--
+Roll a dice to figure out which game you are playing.
+Unless otherwise specified, bots can push other bots but nothing else.
+Unless otherwise specified, each player is dealt a new hand for each round/turn.
+Any damage or death occurring in mini games does not carry over to the main game.
