@@ -121,7 +121,7 @@ Nuclear Engine: Your bot is equipped with a nuclear engine. When you die, it exp
 
 Nobody Tosses A Dwarf: Your bot cannot be pushed into any board element that would cause its destruction, but you cannot push other bots.
 
-Not Easily Destroyed: When your bot would receive a point of damage thta would lock a register, prevent that damage and remove 1 counter from this option. Discard this option if there are no more counters. (5)
+Not Easily Destroyed: When your bot would receive a point of damage that would lock a register, prevent that damage and remove 1 counter from this option. Discard this option if there are no more counters. (5)
 
 Off Switch: Deactivate your bot at any time, except on the last register phase. Remove 2 damage for each phase spent shut down. (2)
 
@@ -135,7 +135,7 @@ Pick One To Save Two: You may discard options (including this one), to prevent t
 
 Portside Laser: Your bot now has an extra laser on its left side.
 
-Power Down Offence: When your bot is powered down, during weapons phase, you fire lasers in all 4 directions.
+Power Down Offense: When your bot is powered down, during weapons phase, you fire lasers in all 4 directions.
 
 Power To The Losers: Place this option in a register instead of a program card. This card counts as a forward X, where X equals the number of bots who have tagged more flags than you.
 
