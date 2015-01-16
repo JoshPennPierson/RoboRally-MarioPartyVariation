@@ -6,7 +6,7 @@
 5) Never Say Die: All bots have unlimited lives (but you still have to discard an option card if you die).
 6) Superior Archive Copy: All bots respawn undamaged.
 7) Speed Things Up (for advanced players only): If all players have damage, the first player to say "Done!" once finished programming all their cards gets to take one point of damage off.
-8) Robot Revival: Upon death, robots revive immediately where they normally would be spawned. The player recieves a new hand of cars equal to the number they would normally get minus the number of turns that have passed. The player then programs the cards and everyone finished out the turn.
+8) Robot Revival: Upon death, robots revive immediately where they normally would be spawned. The player receives a new hand of cars equal to the number they would normally get minus the number of turns that have passed. The player then programs the cards and everyone finished out the turn.
 
 
 --Mini Games Rules--
