@@ -1,3 +1,5 @@
+Use all the Robo Rally option cards you have.
+
 If you have Robo Rally and the Armed and Dangerous expansion, do not play with the following option cards
 ---
 
