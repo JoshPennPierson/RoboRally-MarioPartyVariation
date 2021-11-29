@@ -1,7 +1,7 @@
 RoboRally-MarioPartyVariation
 =============================
 
-A fast-paced and exciting new rule set for the board game Robo Rally. Works best with extra option cards (also helps if someone is familiar with Mario Party 3).
+A fast-paced and exciting new rule set for the board game Robo Rally. Works best with extra option cards (also helps if someone is familiar with Mario Party, specifically Mario Party 3).
 
 Advantages:
 
